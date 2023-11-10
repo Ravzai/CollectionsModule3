@@ -10,4 +10,8 @@ class AlienSpecies {
     }
 
     // Getters for properties
+
+    public String getHomePlanet() {
+        return homePlanet;
+    }
 }
